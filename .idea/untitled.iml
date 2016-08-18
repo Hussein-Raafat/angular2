@@ -72,6 +72,7 @@
         </SOURCES>
       </library>
     </orderEntry>
+    <orderEntry type="library" name="untitled node_modules" level="project" />
     <orderEntry type="module-library">
       <library name="PHP">
         <CLASSES>
@@ -194,6 +195,5 @@
         </SOURCES>
       </library>
     </orderEntry>
-    <orderEntry type="library" name="untitled node_modules" level="project" />
   </component>
 </module>

@@ -16,7 +16,8 @@ elixir(function(mix) {
     mix.typescript(
         [
             'app-component.ts',
-            'boot.ts'
+            'boot.ts',
+            'newComp.ts'
         ],
         'public/js/',
         {
