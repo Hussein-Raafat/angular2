@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.ts"],"names":[],"mappings":"AAAA,IAAI,IAAI,GAAc,UAAU,CAAC;AACjC,IAAI,KAAK,GAAc,UAAU,CAAC","file":"app.js","sourcesContent":["let todo : string   = \"ay 7agaa\";\nlet todo1 : string   = \"ay 7agaa\";"],"sourceRoot":"/source/"}
